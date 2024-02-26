@@ -3,6 +3,7 @@
 ```bash
 1. Membuat projek : npm init -y
 2. Install pkcjson : npm i express
+3. Menjalankan projek : node index.js
 ```
 ## Pembahasan
 ```bash
